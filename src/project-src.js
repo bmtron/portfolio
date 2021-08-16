@@ -4,7 +4,7 @@ export default {
         {
             id: 'wallet',
             name: 'WalletWatch',
-            link: 'https://walletwatch.now.sh',
+            link: 'https://wallet-watch.vercel.app',
             repo: 'https://github.com/bmtron/walletwatch',
             screenshot: 'https://i.gyazo.com/977350cabcf834478abdd7f12dfeef54.png',
             ssAlt: 'A beautiful screenshot of the main page of my Monty Python quiz app project, also my first ever project!',
@@ -14,7 +14,7 @@ export default {
         {
             id: 'wetube',
             name: 'WeTube',
-            link: 'https://bmmeehan3-youtube-theater-app.now.sh',
+            link: 'wetube.vercel.app',
             repo: 'https://github.com/bmtron/youtube-theater-client',
             screenshot: 'https://i.gyazo.com/f2b64c71480cdaab23308045fee25718.png',
             ssAlt: 'A screenshot of the WeTube app in action!',
